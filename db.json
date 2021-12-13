@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": "Bryan",
+      "empresa": "La mas chida",
+      "email": "bryan@gmail.com",
+      "tel": 333333,
+      "notas": "dddd",
+      "id": 7
+    },
+    {
+      "nombre": "aaa",
+      "empresa": "aa",
+      "email": "aa@a",
+      "tel": "",
+      "notas": "ss",
+      "id": 8
+    },
+    {
+      "nombre": "aaa",
+      "empresa": "aa",
+      "email": "admin@cucei",
+      "tel": 33333,
+      "notas": "a",
+      "id": 9
+    },
+    {
+      "nombre": "Bryan Eloy",
+      "empresa": "aa",
+      "email": "CasinoManagerEquipo3@gmail.com",
+      "tel": 5555555,
+      "notas": "",
+      "id": 10
+    },
+    {
+      "nombre": "aas",
+      "empresa": "aa",
+      "email": "bryan.rodriguez2887@alumnos.udg.mx",
+      "tel": "",
+      "notas": "",
+      "id": 11
+    },
+    {
+      "nombre": "qaa",
+      "empresa": "aa",
+      "email": "bryan.rodriguez2887@alumnos.udg.mx",
+      "tel": "",
+      "notas": "",
+      "id": 12
+    },
+    {
+      "nombre": "Bryan Eloy",
+      "empresa": "aa",
+      "email": "bryan.rodriguez2887@alumnos.udg.mx",
+      "tel": "",
+      "notas": "",
+      "id": 13
+    },
+    {
+      "nombre": "aaa",
+      "empresa": "aa",
+      "email": "bryan.rodriguez2887@alumnos.udg.mx",
+      "tel": "",
+      "notas": "",
+      "id": 14
+    },
+    {
+      "nombre": "Bryan Eloy",
+      "empresa": "aa",
+      "email": "bryan.rodriguez2887@alumnos.udg.mx",
+      "tel": "",
+      "notas": "",
+      "id": 15
+    },
+    {
+      "nombre": "Nuevo",
+      "empresa": "aa",
+      "email": "bryan.rodriguez2887@alumnos.udg.mx",
+      "tel": "",
+      "notas": "",
+      "id": 18
+    }
+  ]
+}
